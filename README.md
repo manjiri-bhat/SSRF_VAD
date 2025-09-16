@@ -9,3 +9,6 @@ To run the Project successfully, follow these Steps:
 3. Combined Feature Extraction: Extract MFCC, GTCC, ZCR, Pitch, STE from the speech/non-speech audio segments and store in a csv file
 4. Supervised Random Forest: Perform Supervised Random forest VAD to establish baseline
 5. SSRF: Semi-supervised random forest classification using different percentages of labelled data with 5-fold cross-validation
+
+Cite this paper as follows:
+  Manjiri Bhat, R.B. Keskar, Self-supervised random forests for robust voice activity detection with limited labeled data, Applied Acoustics, Volume 234, 2025, 110636, ISSN 0003-682X, https://doi.org/10.1016/j.apacoust.2025.110636. (https://www.sciencedirect.com/science/article/pii/S0003682X25001082)
